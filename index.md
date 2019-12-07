@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Swamita Gupta</title>
   </head>
-  <center>
+  
   <body background="img.png">
   <img src="btf.png" alt="Butterfly Image" style="width:250px;height:250px">
   <h1><font color='blue' face='Algerian'>Swamita Gupta</font></h1>

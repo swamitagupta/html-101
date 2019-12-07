@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -6,9 +6,9 @@
   </head>
   <center>
   <body background="img.png">
-<img src="btf.png" alt="Butterfly Image" style="width:250px;height:250px">
-<h1><font color='blue' face='Algerian'>Swamita Gupta</font></h1>
-</center>
+  <img src="btf.png" alt="Butterfly Image" style="width:250px;height:250px">
+  <h1><font color='blue' face='Algerian'>Swamita Gupta</font></h1>
+  </center>
 <br>
 <p><em><strong>Hey there! Welcome to my world!</strong></em></p>
 <p>Scroll down to know more about me...</p>
@@ -61,4 +61,3 @@
 <br>
 <a href="contact.html">Click to catch up!</a>
   </body>
-</html>
